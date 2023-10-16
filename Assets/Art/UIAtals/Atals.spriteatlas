@@ -31,17 +31,16 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 102900000, guid: 4d989020f55e9cc4392112049592934e, type: 3}
+    - {fileID: 2800000, guid: 796ff79bd5a61884b857d7efbf8cb515, type: 3}
+    - {fileID: 2800000, guid: 9133c80ff1416fe47b2b01ac9f9cc9a2, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: b7591ab092eb117438913beecff4304f, type: 3}
   - {fileID: 21300000, guid: 796ff79bd5a61884b857d7efbf8cb515, type: 3}
   - {fileID: 21300000, guid: 9133c80ff1416fe47b2b01ac9f9cc9a2, type: 3}
   m_PackedSpriteNamesToIndex:
-  - youxi
   - CloseButton
   - dikuang
   m_RenderDataMap: {}
